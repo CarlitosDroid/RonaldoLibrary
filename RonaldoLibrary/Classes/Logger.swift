@@ -14,4 +14,8 @@ public class Logger {
     public func logMessage() {
         print("Hello world!")
     }
+    
+    public func logMessage2() {
+        print("Hello world2!")
+    }
 }
